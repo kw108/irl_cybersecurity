@@ -1,4 +1,4 @@
-# Maximum Causal Entropy Inverse Reinforcement Learning (MCE-IRL) over Partially Observable Markov Decision Processes (POMDPs)
+# Scalable Defense Against Multi-Stage Cyberattacks in Industrial IoT Using Inverse Reinforcement Learning Over Partially Observable Environments
 
 ## Overview
 
